@@ -9,3 +9,6 @@ Repositorio de prueba del curso de GIT.
 * Truco muy locos del profesor
 * Las personalidades multiples de freddy
 * Creado por el increible platzi Team
+* Incluye ejemplos en window , linux y mac
+* Disponibles para todas las edades 
+
